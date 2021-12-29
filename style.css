@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=family=Roboto:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+    background-color: #301B52;
+    color: #FFFFFF;
+    margin-top: 160px;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+img {
+    width: 130px;
+    height: 97px;
+    margin-left: 30px;
+}
+
+h1{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+fieldset {
+    border: 2px solid #BDBDBD;
+    border-radius: 25px;
+    box-sizing: border-box;
+    background: #F4F3F3;
+    Width: 400px;
+    Height: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    border: 1px solid #828282;
+    box-sizing: border-box;
+    border-radius: 30px;
+    width: 360px;
+    height: 45px;
+    letter-spacing: 1px;
+    outline: none;
+}
+
+input:focus {
+    box-shadow: 0 0 5px #301B52;
+}
+
+button {
+    width: 160px;
+    height: 45px;
+    border-radius: 25px;
+    border-style: none;
+    cursor: pointer;
+}
+
+a {
+    color: #301B52;
+    margin-right: 217px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a.LineWithSpace {
+    line-height: 3;
+}
+
+span {
+    color: #301B52;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+::placeholder {
+    color: #ABAAAA;
+}
+
+#login:hover {
+  background-color: #6915f1
+}
+
+#signup:hover {
+  background-color:#f30414;
+}
+
+.font {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.login {
+    margin-bottom: 50px;
+}
+
+.LineWithSpace {
+    line-height: 1.8;
+}
+
+.ButtonPurple {
+    background-color: #301B52;
+    color: #FFFFFF;
+}
+
+.ButtonRed {
+    background-color: #DB0916;
+    color: #FFFFFF;
+}
