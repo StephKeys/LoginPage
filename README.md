@@ -1,6 +1,6 @@
 # Login Page
 
-<img src="https://user-images.githubusercontent.com/70416127/147623983-b30419e2-debf-4c4e-a15f-de339433cd05.png">
+<img src="https://user-images.githubusercontent.com/70416127/147705953-6883a006-86b0-4ff5-924e-14c38c3c427e.png">
 
 This login page was created based on a design found on Figma. A great opportunity to consolidate my knowledge in html and css.
 
