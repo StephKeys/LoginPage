@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 * {
   margin: 0;
@@ -58,6 +58,7 @@ input {
     height: 45px;
     letter-spacing: 1px;
     outline: none;
+    margin: 10px;
 }
 
 input:focus {
@@ -74,7 +75,8 @@ button {
 
 a {
     color: #301B52;
-    margin-right: 217px;
+    align-items: left;
+    margin: 10px 217px 10px 0;
 }
 
 a:hover {
